@@ -1,5 +1,6 @@
 
 ## **🇯🇵 Welcome to My Personal GitHub Page!**
+<a href="https://github.com/BnbN62"><img align="right" width="150" height="350" src="./anime-kizi-anime.gif"></a>
 こんにちは！ Thank you for visiting my GitHub page! I'm a beginner data scientist with a passion for learning and exploring the world of Python, data analysis, and machine learning. Inspired by the elegance and simplicity of Japanese culture, I strive to bring the same harmony and clarity to my coding journey.
 
 ## **👨‍💻 About Me**
@@ -14,6 +15,7 @@ Data visualization, machine learning, and uncovering patterns in data.
 To grow as a data scientist, one project at a time, while sharing knowledge and building a supportive community.
 
 ## **🌸 My Philosophy**
+<a href="https://github.com/BnbN62"><img align="right" width="150" height="250" src="./anime-waifu.gif"></a>
 Kaizen (改善): Continuous improvement in my coding and problem-solving skills.
 Wabi-sabi (侘寂): Finding beauty in the imperfections of learning.
 Shoshin (初心): Staying curious and open to new ideas as a beginner.
