@@ -7,6 +7,7 @@
 Learning Python for data science, mastering libraries like pandas, numpy, and matplotlib.
 
 📊 Interests:
+<a href="https://github.com/BnbN62"><img align="right" width="100" height="75" src="./bruh.gif"></a>
 Data visualization, machine learning, and uncovering patterns in data.
 
 ## **🚀 Mission:**
