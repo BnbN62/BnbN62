@@ -1,6 +1,6 @@
 
 ## **🇯🇵 Welcome to My Personal GitHub Page!**
-<a href="https://github.com/BnbN62"><img align="right" width="150" height="350" src="./anime-kizi-anime.gif"></a>
+<a href="https://github.com/BnbN62"><img align="right" width="150" height="350" src="./anime-kızı-anime.gif"></a>
 こんにちは！ Thank you for visiting my GitHub page! I'm a beginner data scientist with a passion for learning and exploring the world of Python, data analysis, and machine learning. Inspired by the elegance and simplicity of Japanese culture, I strive to bring the same harmony and clarity to my coding journey.
 
 ## **👨‍💻 About Me**
