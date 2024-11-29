@@ -27,3 +27,7 @@ Explore my repositories and share your thoughts.
 Open issues or discussions for feedback and collaboration opportunities.
 Follow my journey as I dive deeper into the fascinating world of data science.
 ありがとうございます！Thank you for visiting. I hope you find my projects and learning journey inspiring. Ganbatte kudasai (頑張ってください) – do your best, and let’s learn together! 🚀
+
+
+<!---Пример кода-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
