@@ -32,6 +32,6 @@ Follow my journey as I dive deeper into the fascinating world of data science.
 <!---Пример кода-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ваш_никнейм&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BnbN62&theme=dark)](https://git.io/streak-stats)
 
 
