@@ -11,7 +11,7 @@
 </p>
 
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/?username=your_username&theme=dark&bg=000000&border=00AAFF&stroke=00AAFF&ring=00AAFF&fire=00AAFF)](https://leetcode.com/your_username/)
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=BnbN62&theme=dark&bg=000000&border=00AAFF&stroke=00AAFF&ring=00AAFF&fire=00AAFF)](https://leetcode.com/BnbN62/)
 
 
 
