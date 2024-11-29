@@ -11,7 +11,8 @@
 </p>
 
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/?username=BnbN62)](https://leetcode.com/BnbN62/)
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=BnbN62&theme=dark&bg=000000&border=00AAFF&stroke=00AAFF&ring=00AAFF&fire=00AAFF)](https://leetcode.com/BnbN62/)
+
 
 
 
