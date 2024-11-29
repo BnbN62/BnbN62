@@ -5,8 +5,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BnbN62&theme=dark)](https://git.io/streak-stats)
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text=%22In%20our%20society%2C%20let%20alone%20the%20world%2C%20there's%20no%20room%20for%20weakness.%20Those%20who%20want%20to%20become%20weak%20must%20be%20prepared%20for%20the%20consequences.%22)](https://github.com/piyushsuthar/github-readme-quotes)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BnbN62&background=000000&border=1E90FF&stroke=1E90FF&ring=00AAFF&fire=00AAFF&currStreakLabel=00AAFF)](https://git.io/streak-stats)
 
-<p style="color: blue;">- Masashi Kishimoto</p>
 
 
