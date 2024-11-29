@@ -11,6 +11,7 @@
 </p>
 
 
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=BnbN62)](https://leetcode.com/BnbN62/)
 
 
 
